@@ -3,6 +3,7 @@
 # Service JWT with NodeJS
 ![Contributions? Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 ![Maintained? Yes](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen.svg)
+[![ESLint](https://github.com/RomanFama592/service-jwt-nodejs/actions/workflows/eslint.yml/badge.svg)](https://github.com/RomanFama592/service-jwt-nodejs/actions/workflows/eslint.yml)
 
 
 </div>
