@@ -5,7 +5,7 @@
 ![Maintained? Yes](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen.svg)
 [![ESLint](https://github.com/RomanFama592/service-jwt-nodejs/actions/workflows/eslint.yml/badge.svg)](https://github.com/RomanFama592/service-jwt-nodejs/actions/workflows/eslint.yml)
 
-Este repositorio es un servicio web de Node.js que crea y valida tokens JWT con seguridad y compatibilidad con CORS. El proyecto hace uso de ESlinter con StandardJS. Es útil para aprender e integrar un servicio de autenticación.
+This repository is a Node.js web service that creates and validates JWT tokens with security and CORS compatibility. The project uses ESlinter with StandardJS. It is useful for learning and integrating an authentication service.
 
 </div>
 
