@@ -1,10 +1,7 @@
 FROM node:lts-alpine
 
-RUN npm install -g npm@latest &&\
-    npm upgrade --global yarn 
+RUN npm install -g npm@latest
 
 COPY package.json .
 
-RUN yarn install
-
-RUN yarn upgrade
+RUN npm install
