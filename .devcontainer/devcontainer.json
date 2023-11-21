@@ -1,0 +1,16 @@
+{
+    "name": "jwt_services",
+    "dockerFile": "./Dockerfile",
+    "context": "..",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "njpwerner.autodocstring",
+                "usernamehw.errorlens",
+                "Gruntfuggly.todo-tree",
+                "dbaeumer.vscode-eslint"
+            ]
+        }
+    }
+}
