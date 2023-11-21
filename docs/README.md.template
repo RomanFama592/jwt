@@ -7,7 +7,7 @@
 
 </div>
 
-<details>
+<details open>
   <summary>📑 <strong>Contents</strong></summary>
 
 - [🚀 **Project Structure**](#-project-structure)
@@ -102,7 +102,7 @@ fetch('http://tu-servidor.com/v1/create', {
 
 ## 👋 Contributions
 
-If you have a suggestion that would make this better, please fork the repo and create a Pull Request. You can also simply [open an issue](https://github.com/RomanFama592/microservice-jwt-nodejs/issues)
+If you have a suggestion that would make this better, please fork the repo and create a Pull Request. You can also simply [open an issue](https://github.com/RomanFama592/service-jwt-nodejs/issues)
 
 Don't forget to **give the project a star ⭐!** Thanks again!
 
@@ -111,7 +111,7 @@ Don't forget to **give the project a star ⭐!** Thanks again!
 2. Clone your fork
 
 ```bash
-git clone https://github.com/@your_username/microservice-jwt-nodejs
+git clone https://github.com/@your_username/service-jwt-nodejs
 ```
 
 3. Create your Feature Branch
